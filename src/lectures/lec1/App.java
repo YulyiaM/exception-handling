@@ -6,7 +6,8 @@ public class App {
     public static void main(String[] args) {
         //System.out.println(getFileSize(new File("/t")));
         //System.out.println(divide(10, 0));
-        a();
+        //a();
+        System.out.println("Smth to test");
     }
 
     public static void a(){ //в exception - stack-trace - источник ошибки всегда сверху списка ошибок (конечная точка)
